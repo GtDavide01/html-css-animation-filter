@@ -63,11 +63,9 @@
         transform: rotate(0);
     }
     50%{
-        transform: rotate(270deg);
+        transform: rotate(280deg);
     }
-    75%{
-        transform: rotate(60deg);
-    }
+    
     100%{
         transform: rotate(0);
     }
