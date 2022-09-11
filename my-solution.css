@@ -62,7 +62,7 @@
     0%{
         transform: rotate(0);
     }
-    50%{
+    90%{
         transform: rotate(280deg);
     }
     
